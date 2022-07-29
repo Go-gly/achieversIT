@@ -1,0 +1,293 @@
+body{
+    margin:0%;
+    padding: 0%;
+    width: 100%;
+}
+.container-fluid .row{
+    background-color: rgba(22, 120, 158, 0.075);
+}
+#navbarScrollingDropdown::after{
+    margin-left: 70px;
+}
+.navbar-exspand-lg{
+    background-color: rgb(245, 245, 220);
+}
+.sub{
+   background-color:rgba(22, 120, 158, 0.075);
+   padding-left: 2%;
+   padding-right: 2%;
+   padding-top: 2px;
+   padding-bottom: 2px;
+}
+.nav-link{
+    color:orangered;
+    font-weight: bold;
+}
+.fa-solid {
+    color: orangered;
+}
+.fa-location-dot, .fa-envelope{
+    color: orangered;
+}
+.background{
+  background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(carousel-1.jpg);
+  background-size:100% 100%;
+  height: 700px;
+}
+.d-flex .btn{
+    background-color: orangered;
+    color: white;
+    margin-left: 250px;
+}
+.background .head{
+    color: white;
+    position: relative;
+    top: 200px;
+    left: 270px;
+    width:60%;
+}
+.background h1{
+    font-size:74px;
+    font-weight: 900;
+}
+.background span{
+    background-color: orangered;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+.background a{
+    text-decoration: none;
+    color: white;
+}
+.image{
+    background-image: linear-gradient( rgba(0,0,0,0.6) rgba(0,0,0,0.2));
+    height: 100%;
+}
+#learn{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding: 8px;
+    border-radius: 10px;
+}
+.card-body{
+    
+}
+.card-body h1{
+    font-weight: bold;
+}
+.card-body h5{
+    color: orangered;
+}
+.imgg{
+    margin-top: 10%;
+
+}
+.imgsub{
+    max-width: 100%;
+    opacity: 0.5;
+    background-color: black;
+    border-radius: 5px;
+
+}
+.sub1,.sub2,.sub3,.sub4,.sub5,.sub6,.sub7,.sub8{
+    background-color:black; 
+    border-radius: 5px;
+}
+.text p{
+
+    color: orangered;
+    font-weight: bold;
+}
+.text h1{
+    font-weight: bold;
+}
+.ab,.co,.te,.bl{
+    color: black;
+}
+.subtxt,.subtxt1,.subtxt2,.subtxt3{
+    color: white;
+    
+}
+.rowsub{
+    margin-bottom: 10%;
+}
+.text-muted{
+    right: 20px;
+}
+.fa-clock{
+    right: 80px;
+}
+.sign-up{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(./registration.jpg);
+    background-size:cover;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.p{
+    color: orangered;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.need{
+    color: white;
+}
+.submit{
+    color:white;
+}
+.sign-up .googly{
+    background-color: orangered;
+    width: 100%;
+    margin-left: 0px;
+    padding: 20px 0;
+
+}
+.sign-up .singupnow{
+    background-color: white;
+}
+ .teacher{
+    margin-top: 10%;
+    color: orangered;
+}
+.container .test{
+    margin-top: 100px;
+    color: orangered;
+    font-weight: bold;
+}
+.webtool{
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(./blog-1.jpg);
+    background-size:cover;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.frontend{
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(./blog-2.jpg);
+    background-size:cover;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.react{
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(./blog-3.jpg);
+    background-size:cover;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.singupbtn{
+    background-color: orangered;
+    color: white;
+}
+.footer{
+    background-color:#343a40;
+}
+.fa-envelope {
+    color: orangered;
+}
+.fa-phone-flip, .A {
+    color: orangered;
+}
+.fa-angle-right{
+color:white;
+}
+.para{
+color: white;
+}
+.lettr h5{
+    color: orangered;
+
+}
+.get h4{
+    color: orangered;
+}
+.cont,.cont2{
+    color: white;
+
+}
+.footer-contenten{
+    background-color: #343a40;
+    color: white;
+}
+@media only screen and (max-width:600px){
+    .input-group{
+        width: 350px;
+        margin-left: 10px;
+    }
+    .cont2{
+        width: 380px;
+    }
+    .condition{
+        font-size:14px;
+    }
+    .terms .li-3{
+        font-size:20px;
+    }
+    .mail{
+        position: relative;
+        right: 32px;
+    }
+    .background{
+        width:100%;
+        height: 300px;
+    }
+    .background h1{
+font-size:30px; 
+   }
+   .background .head{
+left: 90px;
+top:90px;
+   }
+   .background .head span{
+    padding: 2%;
+   }
+.join{
+position:relative;
+left:100px; 
+bottom:30px;
+}
+.sub1,.sub2,.sub3,.sub4,.sub5,.sub6,.sub7,.sub8{
+    width: 400px;
+    margin: 20px;
+    margin-left: 28px;
+}
+.sub4{
+    margin-bottom: 0;
+}
+.sub5{
+    margin-top: 0%;
+}
+.jon-1,.jon-2,.jon-3,.jon-4{
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+   
+.need{
+    justify-content: center;
+    font-size:15px;
+    line-height:normal;
+    margin-top: 20px;
+    
+}
+.need p{
+    margin: 0%;
+}
+.need h1{
+    margin: 0%;
+    
+}
+.sign{
+    margin-top: 30px;
+    
+}
+.sign .select{
+    width: 370px;
+    position: relative;
+    right: 6px;
+}
+} 
+    
